@@ -50,4 +50,7 @@
     .l-heading {
         font-size: 2rem;
     }
+    .form-card{
+        width: 300px;
+    }
 }
