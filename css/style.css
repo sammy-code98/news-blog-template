@@ -393,3 +393,9 @@ h6 {
 .danger {
     color: red;
 }
+
+.footer-icon{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
