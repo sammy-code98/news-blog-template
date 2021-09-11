@@ -414,3 +414,11 @@ textarea{
     border-radius: 8px;
 
 }
+input[type="submit"]{
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--secondary-color);
+}
